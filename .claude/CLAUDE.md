@@ -10,7 +10,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 제품 개요
 
-**제품명(가칭):** NovelAI Docs 플랫폼  
+**제품명(가칭):** LoreKeeper  
+**부제:** 소설 작가를 위한 세계관 관리 및 설정 충돌 사전 감지 솔루션  
 **슬로건:** "소설 검사기가 아닌, 세계관을 이해하는 코어 엔진을 먼저 구축하고, 설정 검사·템플릿 마켓·창작 어시스턴트를 무한히 확장하는 스토리 엔지니어링 플랫폼"
 
 ### 핵심 문제
@@ -75,4 +76,5 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 추측이나 가정(assumption)은 `> 가정:` 블록으로 명시한다.
 - references.md의 핵심 논리(설득 포인트)를 문서 작성 시 근거로 적극 활용한다.
 - 시장 규모, 사용자 통계, 기술 벤치마크 등 객관적 지표를 제시할 때는 반드시 출처(기관명, 보고서명, 발행연도, URL)를 함께 표기한다.
+- 출처 표에는 나무위키·Wikipedia 등 불특정 다수가 편집 가능한 문서를 포함하지 않는다. 해당 문서는 조사 참고용으로만 활용하고, 출처 표에는 공신력 있는 기관 보고서·언론 기사·공식 사이트만 등재한다.
 - 근거 데이터 조사 시 웹 검색을 적극 활용하여 최신 수치와 신뢰할 수 있는 자료를 확보한다.
