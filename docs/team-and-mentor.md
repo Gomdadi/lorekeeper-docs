@@ -4,7 +4,7 @@
 
 ### 오수현 (팀장)
 
-Cloud-Native 인프라 환경 구축에 강점을 가지며, Terraform 기반 IaC와 Kubernetes 오케스트레이션을 활용해 LoreKeeper의 안정적인 배포 및 운영 환경을 담당한다. Spring Boot(Kotlin)와 FastAPI를 기반으로 백엔드 서비스를 개발하고, LangGraph와 RAG를 활용한 Agentic 서비스 구현에도 기여한다.
+팀장으로서 팀 전체의 방향성 조율, 일정 관리, 의사결정을 주도하며 멘토 및 외부 이해관계자와의 커뮤니케이션 창구 역할을 담당한다. Cloud-Native 인프라 환경 구축에 강점을 가지며, Terraform 기반 IaC와 Kubernetes 오케스트레이션을 활용해 LoreKeeper의 안정적인 배포 및 운영 환경을 담당한다. Spring Boot(Kotlin)와 FastAPI를 기반으로 백엔드 서비스를 개발하고, LangGraph와 RAG를 활용한 Agentic 서비스 구현에도 기여한다.
 
 ### 김준호
 
