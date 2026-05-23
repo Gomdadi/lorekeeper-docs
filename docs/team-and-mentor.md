@@ -3,29 +3,23 @@
 ## 팀원
 
 ### 오수현 (팀장)
-
-팀장으로서 팀 전체의 방향성 조율, 일정 관리, 의사결정을 주도하며 멘토 및 외부 이해관계자와의 커뮤니케이션 창구 역할을 담당한다. Cloud-Native 인프라 환경 구축에 강점을 가지며, Terraform 기반 IaC와 Kubernetes 오케스트레이션을 활용해 본 서비스의 안정적인 배포 및 운영 환경을 담당한다. Spring Boot(Kotlin)와 FastAPI를 기반으로 백엔드 서비스를 개발하고, LangGraph와 RAG를 활용한 Agentic 서비스 구현에도 기여한다.
+팀 방향 조율·일정 관리를 주도하며, Cloud-Native 인프라(Terraform, Kubernetes)와 Spring Boot(Kotlin)/FastAPI 백엔드, LangGraph·RAG 기반 AI 서비스 구현을 담당한다.
 
 ### 김준호
-
-Kafka 기반 이벤트 기반 아키텍처(EDA)와 MSA 환경에서의 분산 트랜잭션 설계 역량을 바탕으로, 본 서비스의 비동기 파급 효과(Ripple Effect) 역추적 파이프라인 설계 및 구현을 담당한다. Spring Boot, Spring Security, Redis를 활용하여 고성능 백엔드 서비스를 개발하고, RAG 및 Agentic workflow를 통한 LLM 자동화 기능 구현에 기여한다.
+Kafka EDA와 MSA 분산 트랜잭션 설계 역량으로 Ripple Effect 역추적 파이프라인을 담당하며, Spring Boot·Redis 기반 고성능 백엔드와 LLM 자동화 기능 구현에 기여한다.
 
 ### 이승주
-
-Kafka/Redis 기반 메시지 큐 활용과 CQRS 패턴, DB 샤딩/이중화 등 대용량 분산 시스템 설계 역량을 바탕으로 본 서비스의 데이터 정합성 및 확장성 있는 시스템 구조를 담당한다. 옵저버빌리티(Observability) 구축 관심사를 살려 통합 로깅 및 메트릭 파이프라인을 설계하고, Next.js 기반 프론트엔드 개발에도 기여한다.
+CQRS·DB 샤딩 등 대용량 분산 시스템 설계를 담당하며, 통합 로깅 및 메트릭 파이프라인 구축을 통해 서비스 Observability를 확보한다.
 
 ---
 
 # 멘토 구성 및 역할
 
 ### 김용웅 멘토
-
-Cloud-Native 인프라 설계 및 Terraform 기반 IaC 실무 경험을 바탕으로, 본 서비스의 AWS 인프라 구성과 Kubernetes 기반 MSA 전환 과정에서 아키텍처 설계 리뷰와 현업 베스트 프랙티스를 지원받을 예정이다. 또한 Spring Boot 기반 백엔드 아키텍처 설계 리뷰와 AI Agent를 활용한 서비스 운영 구조 전반에 걸쳐 조언을 받는다.
+AWS·Kubernetes 기반 MSA 인프라 아키텍처 리뷰와 Spring Boot 백엔드 설계, AI Agent 서비스 운영 구조 전반에 걸쳐 현업 베스트 프랙티스를 지원받는다.
 
 ### 장시현 멘토
-
-본 서비스의 MVP 범위 설정과 아이템·문제 정의 단계부터 함께 방향성을 점검하고, 시스템 구조·API·데이터 흐름 리뷰를 통해 Knowledge Graph 및 RAG 파이프라인 설계의 완성도를 높이는 데 도움을 받을 예정이다. AI/LLM 기반 서비스의 실제 서비스화(Productization) 관점에서 기획과 구현 사이의 간극을 좁히는 실질적인 피드백을 받는다.
+MVP 범위 설정부터 Knowledge Graph·RAG 파이프라인 설계 리뷰까지, AI/LLM 서비스 실제 서비스화(Productization) 관점의 실질적인 피드백을 받는다.
 
 ### 김권섭 멘토
-
-Kafka 기반 실시간 스트리밍 파이프라인 설계와 대용량 백엔드 구조에 대한 현업 경험을 바탕으로, 본 서비스의 비동기 파급 효과 역추적 시스템 설계 및 EDA 아키텍처 구현 과정에서 실무적인 조언을 받을 예정이다. Agile 기반 스프린트 사이클 설계와 코드 리뷰를 통해 팀 개발 프로세스 전반의 품질을 높이는 데 지원을 받는다.
+Kafka 실시간 스트리밍·EDA 아키텍처 설계 조언과 Agile 스프린트·코드 리뷰를 통해 팀 개발 프로세스 전반의 품질을 높이는 지원을 받는다.
